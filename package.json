@@ -1,0 +1,26 @@
+{
+  "name": "yashiropage_2019",
+  "version": "1.0.0",
+  "description": "Yashiro's profile webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creatio313/yashiropage_2019.git"
+  },
+  "author": "Yashiro Show",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creatio313/yashiropage_2019/issues"
+  },
+  "homepage": "https://github.com/creatio313/yashiropage_2019#readme",
+  "dependencies": {
+    "i18next": "^17.2.0",
+    "i18next-xhr-backend": "^3.2.0",
+    "jquery": "^3.4.1",
+    "jquery-i18next": "^1.2.1",
+    "material-components-web": "^3.2.0"
+  }
+}
