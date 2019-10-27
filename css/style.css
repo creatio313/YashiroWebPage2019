@@ -1,2 +1,30 @@
-@import "../node_modules/@material/typography/dist/mdc.typography.min.css";
-@import "../node_modules/@material/data-table/dist/mdc.data-table.min.css";
+body{
+  margin: auto;
+  text-align: center;
+}
+h1{
+  padding: 50px;
+}
+a{
+  text-decoration: none;
+}
+:root{
+  --mdc-theme-primary: red;
+  --mdc-theme-secondary: gray;
+}
+#prof_img{
+  width: 100%;
+  max-width: 500px;
+}
+#prof_description{
+  padding: 5px;
+}
+#lang_menu{
+  margin: 20px;
+}
+.rounded{
+  border-radius: 50%;
+}
+.mdc-card{
+  padding: 5px;
+}

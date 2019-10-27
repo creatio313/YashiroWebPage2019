@@ -1,0 +1,35 @@
+{
+    "title": {
+      "main": "八代 翔",
+      "profile": "人物",
+      "philosophy": "哲学",
+      "creator": "創作",
+      "skill": "技術"
+    },
+    "description":{
+      "profile1": "東京都出身のクリエイター",
+      "profile2": "小説、映画、音楽と幅広い分野で創作活動を行っている。",
+      "profile3": "学問分野では哲学に関心を寄せ、大学時代にはドイツ思想を専攻した。ケルン大学哲学部に交換留学し、分析哲学にも触れる。",
+      "profile4": "現在はプログラマーとして働き、自己研鑽に励んでいる。"
+    },
+    "philosophy": {
+      "utilitarianism": "功利主義",
+      "utilitarianism_sub": "幸福な世界を目指して",
+      "utilitarianism_des": "量的功利主義に基づき最大多数の最大幸福を追求します。",
+      "empiricism": "経験主義",
+      "empiricism_sub": "感覚と分析を信じる",
+      "empiricism_des": "先験的要素ではなく、感性的認識の分析から知を追求します。",
+      "atheism": "無神論",
+      "atheism_sub": "科学観の重視",
+      "atheism_des": "定量的で検証可能な事実のみを信仰します。"
+    },
+    "creator": {
+        "sub": "―新しい感動をつくる―",
+        "write": "執筆活動",
+        "write_des": "新作『その日』まもなく公開予定",
+        "music": "音楽活動",
+        "music_des": "2020.2 長野県松本市にてライブ予定",
+        "movie": "映画制作",
+        "movie_des": "Studio-seginus"
+    }
+}
